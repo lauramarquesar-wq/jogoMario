@@ -1,4 +1,4 @@
-# jogoMario
+# Jogo Mario 
 
 ## Integrantes
 
@@ -11,3 +11,14 @@
 | Maria Eduarda Calvavante Da Hora  |   01603709    |   TESTADOR       |
 | Tereza Ana Barros E Silva         |   01830940    |   DOCUMENTAÇÃO   |
 
+
+## Descrição 
+Descrição do projeto.
+
+## Tecnologias 
+
+- HTML
+- CSS
+- JavaScript 
+- TypeScript 
+- Framework utilizado
