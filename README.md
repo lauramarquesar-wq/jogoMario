@@ -22,3 +22,11 @@ Descrição do projeto.
 - JavaScript 
 - TypeScript 
 - Framework utilizado
+
+## Instalação 
+cd frontend
+npm install
+
+## Execução 
+npm run dev 
+
