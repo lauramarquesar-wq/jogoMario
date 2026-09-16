@@ -13,20 +13,26 @@
 
 
 ## Descrição 
-Descrição do projeto.
+
+Projeto de um jogo do Mario para navegador, desenvolvido como prática de Front-End e gerenciamento de código com Git e GitHub. O projeto utiliza uma estrutura organizada, branches de desenvolvimento e principal, commits semânticos e integração por meio de merge.
 
 ## Tecnologias 
 
 - HTML
 - CSS
-- JavaScript 
-- TypeScript 
-- Framework utilizado
+- JavaScript  
 
 ## Instalação 
-cd frontend
-npm install
+Este projeto não possui dependências externas ou pacotes que precisam ser instalados. Para utilizar o projeto, basta clonar ou baixar o repositório e abrir a pasta no Visual Studio Code.
 
-## Execução 
-npm run dev 
+### Pré-requisitos
 
+- Visual Studio Code
+- Extensão Live Preview
+
+## Execução
+
+1. Clone o repositório:
+
+```bash
+git clone URL_DO_REPOSITORIO
