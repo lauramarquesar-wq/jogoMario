@@ -6,9 +6,9 @@
 |-----------------------------------|---------------|------------------|
 | Anna Julia Seixas Silva           |   01755954    |   TESTADORA      |
 | Diogenes Raimundo Da Silva        |   01777145    |   TESTADOR       |
-| Giovanna Calvacanti               |   01828278    |   DESENVOLVEDORA |
+| Giovanna Cavalcanti de Melo       |   01828278    |   DESENVOLVEDORA |
 | Laura Marques De Arandas          |   01850581    |   SCRUM MASTER   |
-| Maria Eduarda Calvavante Da Hora  |   01603709    |   DESENVOLVEDORA |
+| Maria Eduarda Cavalcante Da Hora  |   01603709    |   DESENVOLVEDORA |
 | Tereza Ana Barros E Silva         |   01830940    |   DOCUMENTAÇÃO   |
 
 
